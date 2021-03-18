@@ -33,7 +33,7 @@ PS: Questa è la procedura più comoda
     git push
     ```
 
-Una scorciatoia per __add__ and __commit___ è
+Una scorciatoia per __add__ and __commit__ è
 ```
 git committ -am "TITOLO" -m "DESCRIZIONE"
 ```
